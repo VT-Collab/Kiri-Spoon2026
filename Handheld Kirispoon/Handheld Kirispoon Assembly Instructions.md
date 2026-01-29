@@ -26,14 +26,16 @@ The Handheld Kirispoon is a 3D-printed assistive device that functions by encomp
     - LeftHandle.STL
     - RightHandle.STL
 #### 2. Print PLA parts
-    1. On a 3D printing software, import the two files downloaded in step 1
-    {{add picture}}
-    2. Orient the two files onto the printer bed as shown above
-    3. Adjust the printer settings to allow PLA printing
-    4. Load PLA filament into the 3D printer
-    5. Upload and print the two PLA parts
-    6. Take the two parts off and remove the supports
-        *A small pair of pliers makes removing the supports easier
+
+1. On a 3D printing software, import the two files downloaded in step 1
+<img width="441" height="512" alt="handlesOnPrinterBed" src="https://github.com/user-attachments/assets/3825306f-40d5-4c08-8a4e-97cc3d6ace15" />
+
+2. Orient the two files onto the printer bed as shown above
+3. Adjust the printer settings to allow PLA printing
+4. Load PLA filament into the 3D printer
+5. Upload and print the two PLA parts
+6. Take the two parts off and remove the supports
+    *A small pair of pliers makes removing the supports easier
 #### 3. Download the following .STL files:
     - TPU Band.STL
     - KirigamiMesh.STL
@@ -72,6 +74,7 @@ Before clicking on the links in this list, there are some important things to no
 |1|[PLA filament(any color)](https://www.mcmaster.com/1317N205/) |$23.46|
 |1|[TPU 85A filament](http://matterhackers.com/store/l/ninjatek-ninjaflex-tpu-filament/sk/MV0S1W9G?rcode=PMAX_GENPOPFIL&gad_source=1&gad_campaignid=20511284107&gbraid=0AAAAADtQ4S2UubuybuOmpFmA1j5LN21QE&gclid=CjwKCAiA95fLBhBPEiwATXUsxMzSsgJE8i6oHTvo0HaZhD9AmPCctGVFT8BKvup_QHG0nufGQGCBKRoCVewQAvD_BwE) |$54.25|
 | | Total Cost: |$77.71|
+
 
 
 
