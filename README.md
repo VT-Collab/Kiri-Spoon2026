@@ -1,11 +1,15 @@
 # Kiri-Spoon: A Kirigami Utensil for Robot-Assisted Feeding
 
-The main kirigami sheet is **KirigamiMesh.SLDPRT**.
+Kiri-Spoon: A Kirigami Utensil for Robot-Assisted Feeding
 
-There are prt, assem, and step files in the Kiri Assembly Folder.
+There are three folders: Handheld Kirispoon, Robotic Kirispoon End-Effector, and Ansis Model
 
-The prt and assem files are editable files of the KiriSpoon design.
+There are prt, zip, step, and md files in the Handheld Kirispoon and Robotic End-Effector folders
 
-The step files are the versions of the design we used in our testing.
+md files provide instructions for Kirispoon reproduction
 
-If you want to edit our KiriSpoon assembly, you will need to download all prt and assem files.\
+Download the zip file for the assembly and all necessary files
+
+Individual prt files are located in the folders
+
+The same kirigami sheet is located in multiple folders
