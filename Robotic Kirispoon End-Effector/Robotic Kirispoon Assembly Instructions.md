@@ -97,4 +97,5 @@ Before clicking on the links in this list, there are some things to note:
 |1|[1516 Series 8mm REX Standoff (M4 x 0.7mm Threads, 40mm Length) (4 Pack)](https://www.gobilda.com/1516-series-8mm-rex-standoff-m4-x-0-7mm-threads-40mm-length-4-pack/ )|$5.29|
 |1|[Screws (M4, Length 16mm) (25 Pack)](https://www.gobilda.com/m4-x-0-7mm-zinc-plated-socket-head-screw-16mm-length/?sku=2800-0004-0016)|$3.79|
 |1|[Nuts (M4) (25 Pack)](https://www.gobilda.com/m4-x-0-7mm-nylock-nut/?sku=2812-0004-0007) |$2.99|
+
 ||Total Cost: |$178.91|
