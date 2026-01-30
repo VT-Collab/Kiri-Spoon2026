@@ -35,7 +35,9 @@ The Robotic Kirispoon End-Effector is a device developed to securely grab food w
 
 #### 2. Print PLA Parts
     1. On a 3D printing software, import the three files downloaded in step 1
-    {{Picture}}
+    
+<img width="441" height="512" alt="Screenshot 2026-01-14 095416" src="https://github.com/user-attachments/assets/f7d449f7-12dd-4b4a-9520-992c151722be" />
+
     2. Orient the three files onto the printer bed as shown above
     3. Adjust the printer settings to allow PLA printing
     4. Load PLA filament into the 3D printer
@@ -46,7 +48,9 @@ The Robotic Kirispoon End-Effector is a device developed to securely grab food w
     - KirigamiMesh.STL
 #### 4. Print the TPU part
     1. In a 3D printing software, import the file downloaded in step 3
-    {{Picture}}
+    
+<img width="441" height="512" alt="Screenshot 2026-01-14 095607" src="https://github.com/user-attachments/assets/cee255b8-7e70-4f42-b3f9-70c94bf651f0" />
+    
     2. Orient the files onto the printer bed as shown above
     3. Adjust the printer settings to allow TPU printing
         *Note: Some printers have trouble printing TPU. Look up the best parameters for printing TPU filament on your printer. 
@@ -55,21 +59,37 @@ The Robotic Kirispoon End-Effector is a device developed to securely grab food w
     6. Move to the Assembly instructions while printing
 
 ## Assembly
-{{Picture}}
+
+<img width="536" height="554" alt="Screenshot 2026-01-30 131508" src="https://github.com/user-attachments/assets/4eaf969a-0fff-4e4f-af34-5457a2e9c07d" />
+
 1. Orient the servo motor onto the Panda housing as shown above. Use three screws and nuts to secure the servo to the housing. The nuts should be flush against the housing.
-{{Picture}}
+
+<img width="726" height="542" alt="Screenshot 2026-01-30 131525" src="https://github.com/user-attachments/assets/4cf78bf5-ad6f-4d4b-b0e1-87c90b5b793e" />
+
 2. Insert the ball bearings as shown in the figure above. These should push into the housing and be held in place by friction.
-{{Picture}}
+
+<img width="731" height="544" alt="Screenshot 2026-01-30 131536" src="https://github.com/user-attachments/assets/5dc9c976-3bbe-4129-9ca0-b3717c92fdd7" />
+
 3. Slide a REX standoff into each of the ball bearings. Secure the REX standoffs by installing collars on the side of the standoffs closest to the servo motor, as shown above. The collar can be fastened with the Allen wrench until it no longer moves when little force is applied. Do not over-tighten the collar; this will damage the REX standoffs. 
-{{Picture}}
-Place the servo gear onto the servo motor. Then slide the 36-tooth gears onto the REX standoffs as shown above.
-{{Picture}}
+
+<img width="661" height="533" alt="Screenshot 2026-01-30 131550" src="https://github.com/user-attachments/assets/ac1944d6-3935-46fa-b1ec-bd518387ce82" />
+
+4. Place the servo gear onto the servo motor. Then slide the 36-tooth gears onto the REX standoffs as shown above.
+
+<img width="641" height="543" alt="Screenshot 2026-01-30 131603" src="https://github.com/user-attachments/assets/9934470c-c3cf-4067-a2ed-8efe111ee06e" />
+
 5. Press the Angled Kiriposts onto the REX standoffs while paying careful attention to the orientation as shown above. The Kiriposts are designed for a tight fit, so this step will take some force.
-{{Picture}}
+
+<img width="653" height="542" alt="Screenshot 2026-01-30 131619" src="https://github.com/user-attachments/assets/5b098f5a-b547-4c3a-902c-fd285a8429b1" />
+
 6. Fasten a collar on the bottom of each standoff as shown above.
-{{Picture}}
+
+<img width="624" height="545" alt="Screenshot 2026-01-30 131633" src="https://github.com/user-attachments/assets/ed75b08f-f3f9-4c6f-8cd9-d939a3f0ff45" />
+
 7. Once the Kirigami sheet is done printing, remove it from the printer. There are two circular holes on the kirigami sheet that will fit onto the pegs located on the end of each Kiripost. The thicker part of the kirigami sheet should be closest to the servo motor, as shown above.
-{{Picture}}
+
+<img width="676" height="541" alt="Screenshot 2026-01-30 115538" src="https://github.com/user-attachments/assets/eb13a952-4861-4e5f-a565-5d545085c607" />
+
 8. The assembly should now be complete as shown above. 
 
 ## Controlling and Powering the Robotic Kirispoon
@@ -82,8 +102,10 @@ Before clicking on the links in this list, there are some things to note:
     - Note: The left-most column shows the amount of material/parts needed for one spoon
     - Note: The two filament spools below contain enough filament for several spoons
     - Note: This list assumes that a printer is readily available
-    - Note: The specific links listed below are the materials utilized in the Kirispoon research     study; it is possible to find the listed materials from other sources
-    - Note: The “Link Cost” column shows the price of the product in the link address when this document was made, NOT the cost for the amount of material needed for one spoon
+    - Note: The specific links listed below are the materials utilized in the Kirispoon research study; 
+            it is possible to find the listed materials from other sources
+    - Note: The “Link Cost” column shows the price of the product in the link address when this document was made, 
+            NOT the cost for the amount of material needed for one spoon
 
 |# of Units|Part/Material|Unit Cost|
 |---|---|---|
@@ -97,5 +119,5 @@ Before clicking on the links in this list, there are some things to note:
 |1|[1516 Series 8mm REX Standoff (M4 x 0.7mm Threads, 40mm Length) (4 Pack)](https://www.gobilda.com/1516-series-8mm-rex-standoff-m4-x-0-7mm-threads-40mm-length-4-pack/ )|$5.29|
 |1|[Screws (M4, Length 16mm) (25 Pack)](https://www.gobilda.com/m4-x-0-7mm-zinc-plated-socket-head-screw-16mm-length/?sku=2800-0004-0016)|$3.79|
 |1|[Nuts (M4) (25 Pack)](https://www.gobilda.com/m4-x-0-7mm-nylock-nut/?sku=2812-0004-0007) |$2.99|
-
 ||Total Cost: |$178.91|
+
