@@ -115,5 +115,5 @@ Before clicking on the links in this list, there are a couple of important thing
 |1|[Power Adapter 7 volts (includes a DC barrel jack adapter)](https://www.amazon.com/dp/B0B5GFJNS2/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B0B5GFJNS2&pd_rd_w=mGGio&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=2W6D7QCPWHGRAN1Y680W&pd_rd_wg=op3lr&pd_rd_r=806a2af1-b4f9-48da-8165-049daf2cf8ef&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM )|$17.99|
 |1|[Half Breadboard](https://www.digikey.com/en/products/detail/dfrobot/FIT0096/7597069?gclsrc=aw.ds&gad_source=1&gad_campaignid=20232005509&gbraid=0AAAAADrbLliWzviSy71Vuvh3rn68vr0yy&gclid=CjwKCAiAmp3LBhAkEiwAJM2JUAsJKqjgIozuQ8PYXdKIrhqhSSRvO_wl6e72EOud3CsVuHPRZbkJcBoCjGIQAvD_BwE )|$2.90|
 |1|[M/M Wires (20 Count)](https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-12795/5993860 )|$2.95|
-
 ||Total Cost: |$57.94|
+
