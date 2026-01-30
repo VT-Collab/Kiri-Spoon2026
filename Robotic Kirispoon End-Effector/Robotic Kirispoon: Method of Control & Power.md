@@ -21,7 +21,9 @@ This method involves wiring the robotic kirispoon to an adaptable power source, 
     - KiriButton.ino 
 
 ## Instructions
-{{Picture}}
+
+<img width="612" height="670" alt="Screenshot 2026-01-14 134041" src="https://github.com/user-attachments/assets/f55c8fb3-f2a5-4b5b-bb80-bb0764c53bb6" />
+
     1. Build the circuit shown above
         *Note: Pay attention to the specific pins on the Arduino and the specific wire colors on the Servo Motor
         *Note: The Servo Motor is a part of the Robotic Kirispoon End-effector
@@ -36,14 +38,16 @@ This method involves wiring the robotic kirispoon to an adaptable power source, 
 ## Order List for Method 1
 There are multiple ways to make the circuit shown in Method 1. The parts list below will contain the items to make the circuit utilized during research. A picture of that circuit is included below. 
 (Note: each resistor shown in the circuit diagram is 10k ohms)
-{{Picture}}
+<img width="495" height="512" alt="ResearchCircuitArduino" src="https://github.com/user-attachments/assets/bcb1535e-5e9f-4e02-82c4-09b657cc384d" />
+
 Before clicking on the links in this list, there are a couple of important things to note:
     - Note: The Arduino Cable is for a USB type B, depending on the computer used, another cable may need to be selected
     - Note: This list assumes the Robotic Kirispoon is already built
     - Note: The left-most column shows the number of the units to order
     - Note: This list will yield more materials than necessary to build the circuit
     - Note: This list assumes that a printer is readily available
-    - Note: The “Link Cost” column shows the price of the product in the link address when this document was made, NOT the cost for the amount of material needed for one spoon
+    - Note: The “Link Cost” column shows the price of the product in the link address when this document was made, 
+            NOT the cost for the amount of material needed for one spoon
 
 |# of Units|Part/Material|Unit Cost|
 |---|---|---|
@@ -72,7 +76,7 @@ This method involves wiring the Robotic Kirispoon to an adaptable power source a
     - Open_close_Kirispoon.py
 
 ### Instructions
-{{Picture}}
+<img width="575" height="629" alt="Screenshot 2026-01-27 172721" src="https://github.com/user-attachments/assets/11d24e14-7647-40f8-a0e8-c131205eeda8" />
 
     1. Build the circuit shown above
         *Note: Pay attention to the specific pins on the Arduino and the specific wires on the Servo Motor
@@ -82,8 +86,11 @@ This method involves wiring the Robotic Kirispoon to an adaptable power source a
     4. In the Arduino IDE, open the Endeffector_Control_Example.ino sketch
     5. Upload the sketch to the Arduino to run the code
     6. Turn on the power supply to the motor
-    7. In another software, such as Visual Studio, controlling the Robotic Kirispoon can be done by sending the specific messages over the Arduino Cable, which correspond to the action in the Arduino code. An example of sending serial messages in VS Code is seen in the Open_close_Kirispoon.py and below. 
-    {{Picture}}
+    7. In another software, such as Visual Studio, controlling the Robotic Kirispoon can be done by sending 
+        the specific messages over the Arduino Cable, which correspond to the action in the Arduino code. 
+        An example of sending serial messages in VS Code is seen in the Open_close_Kirispoon.py and below. 
+<img width="822" height="616" alt="Screenshot 2026-01-29 123727" src="https://github.com/user-attachments/assets/b645b021-4c29-40c6-8462-42d3fdcdcdd5" />
+
     To run the example shown above, follow the steps below:
     1. Download the following:
         - Open_close_Kirispoon.py
@@ -106,7 +113,8 @@ Before clicking on the links in this list, there are a couple of important thing
     - Note: This list will yield more materials than necessary to build the circuit
     - Note: This list assumes that a printer is readily available
     - Note: This list assumes that a computer or other hardware device capable of sending serial messages is readily available
-    - Note: The “Link Cost” column shows the price of the product in the link address when this document was made, NOT the cost for the amount of material needed for one spoon
+    - Note: The “Link Cost” column shows the price of the product in the link address when this document was made, 
+            NOT the cost for the amount of material needed for one spoon
 
 |# of Units|Part/Material|Unit Cost|
 |---|---|---|
@@ -116,4 +124,5 @@ Before clicking on the links in this list, there are a couple of important thing
 |1|[Half Breadboard](https://www.digikey.com/en/products/detail/dfrobot/FIT0096/7597069?gclsrc=aw.ds&gad_source=1&gad_campaignid=20232005509&gbraid=0AAAAADrbLliWzviSy71Vuvh3rn68vr0yy&gclid=CjwKCAiAmp3LBhAkEiwAJM2JUAsJKqjgIozuQ8PYXdKIrhqhSSRvO_wl6e72EOud3CsVuHPRZbkJcBoCjGIQAvD_BwE )|$2.90|
 |1|[M/M Wires (20 Count)](https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-12795/5993860 )|$2.95|
 ||Total Cost: |$57.94|
+
 
