@@ -87,11 +87,12 @@ Before clicking on the links in this list, there are some important things to no
             NOT the cost for the amount of material needed for one spoon
 
 
-|Part/Material|g per Roll|Roll Cost|Cost per Kirispoon|
+|Material|g per Roll|Roll Cost|Cost per Kirispoon|
 |---|---|---|---|
-|[PLA filament(any color)](https://us.store.bambulab.com/products/pla-basic-filament?srsltid=AfmBOoo7uD4aZrYHzutCN6MeIgpNWLYGZYQ993Mq-DI3_bWOmJg2ZiCG&id=43045599215752)||1000g||$19.99||$0.70|
-|[TPU 85A filament](http://matterhackers.com/store/l/ninjatek-ninjaflex-tpu-filament/sk/MV0S1W9G?rcode=PMAX_GENPOPFIL&gad_source=1&gad_campaignid=20511284107&gbraid=0AAAAADtQ4S2UubuybuOmpFmA1j5LN21QE&gclid=CjwKCAiA95fLBhBPEiwATXUsxMzSsgJE8i6oHTvo0HaZhD9AmPCctGVFT8BKvup_QHG0nufGQGCBKRoCVewQAvD_BwE)||500g||$54.25||$0.87|
-| | Total Cost: |$74.24| |$1.57|
+|[PLA filament(any color)](https://us.store.bambulab.com/products/pla-basic-filament?srsltid=AfmBOoo7uD4aZrYHzutCN6MeIgpNWLYGZYQ993Mq-DI3_bWOmJg2ZiCG&id=43045599215752)|1000g|$19.99|$0.70|
+|[TPU 85A filament](http://matterhackers.com/store/l/ninjatek-ninjaflex-tpu-filament/sk/MV0S1W9G?rcode=PMAX_GENPOPFIL&gad_source=1&gad_campaignid=20511284107&gbraid=0AAAAADtQ4S2UubuybuOmpFmA1j5LN21QE&gclid=CjwKCAiA95fLBhBPEiwATXUsxMzSsgJE8i6oHTvo0HaZhD9AmPCctGVFT8BKvup_QHG0nufGQGCBKRoCVewQAvD_BwE)|500g|$54.25|$0.87|
+| |Total Cost:|$74.24|$1.57|
+
 
 
 
