@@ -78,20 +78,21 @@ The Handheld Kirispoon is a 3D-printed assistive device that functions by encomp
 ## Order List
 Before clicking on the links in this list, there are some important things to note:
 
-    - Note: The left-most column shows the number of the units to order
-    - Note: The two filament spools below contain enough filament for several spoons
-    - Note: This list assumes that a printer is readily available
-    - Note: The specific links listed below are the materials utilized in the Kirispoon research study; 
+    - The left-most column shows the number of the units to order
+    - The two filament spools below contain enough filament for several spoons
+    - This list assumes that a printer is readily available
+    - The specific links listed below are the materials utilized in the Kirispoon research study; 
             it is possible to find the listed materials from other sources
-    - Note: The “Link Cost” column shows the price of the product in the link address when this document was made, 
+    - The “Link Cost” column shows the price of the product in the link address when this document was made, 
             NOT the cost for the amount of material needed for one spoon
 
 
-|# of Units|Part/Material|Unit Cost|
+|# of Grams per Unit|Part/Material|Unit Cost|
 |---|---|---|
-|1|[PLA filament(any color)](https://www.mcmaster.com/1317N205/) |$23.46|
-|1|[TPU 85A filament](http://matterhackers.com/store/l/ninjatek-ninjaflex-tpu-filament/sk/MV0S1W9G?rcode=PMAX_GENPOPFIL&gad_source=1&gad_campaignid=20511284107&gbraid=0AAAAADtQ4S2UubuybuOmpFmA1j5LN21QE&gclid=CjwKCAiA95fLBhBPEiwATXUsxMzSsgJE8i6oHTvo0HaZhD9AmPCctGVFT8BKvup_QHG0nufGQGCBKRoCVewQAvD_BwE) |$54.25|
-| | Total Cost: |$77.71|
+|1000g|[PLA filament(any color)](https://us.store.bambulab.com/products/pla-basic-filament?srsltid=AfmBOoo7uD4aZrYHzutCN6MeIgpNWLYGZYQ993Mq-DI3_bWOmJg2ZiCG&id=43045599215752) |$19.99|
+|500g|[TPU 85A filament](http://matterhackers.com/store/l/ninjatek-ninjaflex-tpu-filament/sk/MV0S1W9G?rcode=PMAX_GENPOPFIL&gad_source=1&gad_campaignid=20511284107&gbraid=0AAAAADtQ4S2UubuybuOmpFmA1j5LN21QE&gclid=CjwKCAiA95fLBhBPEiwATXUsxMzSsgJE8i6oHTvo0HaZhD9AmPCctGVFT8BKvup_QHG0nufGQGCBKRoCVewQAvD_BwE) |$54.25|
+| | Total Cost: |$74.24|
+
 
 
 
