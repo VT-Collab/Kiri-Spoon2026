@@ -108,7 +108,7 @@ Before clicking on the links in this list, there are some things to note:
             NOT the cost for the amount of material needed for one spoon
 
 **Total 3D-Printing Filament Cost**
-|Material|g per Roll|Roll Cost|g per Kirispoon|Kirispoon Cost|
+|Material|g per Roll|Roll Cost|g per End-Effector|End-Effector Cost|
 |---|---|---|---|---|
 |[PLA filament(any color)](https://us.store.bambulab.com/products/pla-basic-filament?srsltid=AfmBOoo7uD4aZrYHzutCN6MeIgpNWLYGZYQ993Mq-DI3_bWOmJg2ZiCG&id=43045599215752)|1000g|$19.99|40g|$0.80|
 |[TPU 85A filament](http://matterhackers.com/store/l/ninjatek-ninjaflex-tpu-filament/sk/MV0S1W9G?rcode=PMAX_GENPOPFIL&gad_source=1&gad_campaignid=20511284107&gbraid=0AAAAADtQ4S2UubuybuOmpFmA1j5LN21QE&gclid=CjwKCAiA95fLBhBPEiwATXUsxMzSsgJE8i6oHTvo0HaZhD9AmPCctGVFT8BKvup_QHG0nufGQGCBKRoCVewQAvD_BwE)|500g|$54.25|5g|$0.55|
@@ -128,6 +128,8 @@ Before clicking on the links in this list, there are some things to note:
 ||Total Cost: |$101.20|
 
 **Total Cost of One Robotic End-Effector**
-| |3D-Printing Filament|Parts|Summed Total|
-|Total: |$1.35|$101.20|$102.55|
+||3D-Printing Filament|Parts|Summed Total|
+|---|---|---|---|
+|Total: |$1.35|$101.20|**$102.55**|
+
 
