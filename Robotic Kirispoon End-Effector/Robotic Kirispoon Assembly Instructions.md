@@ -115,21 +115,80 @@ Before clicking on the links in this list, there are some things to note:
 |Total:|1500g|$74.24|45g|$1.35|
 
 **Total Part Cost**
-|# of Units|Part/Material|Unit Cost|
-|---|---|---|
-|1|[2000 Series Dual Mode Servo (25-2, Torque)](https://www.gobilda.com/2000-series-dual-mode-servo-25-2-torque/ )|$36.99|
-|1|[2305 Series Brass, MOD 0.8, Servo Gear (25 Tooth Spline, 12 Tooth)](https://www.gobilda.com/2305-series-brass-mod-0-8-servo-gear-25-tooth-spline-12-tooth/)|$8.99|
-|2|[2303 Series Steel, MOD 0.8 Pinion Gear (8mm REX Bore, 36 Tooth)](https://www.gobilda.com/2303-series-steel-mod-0-8-pinion-gear-8mm-rex-bore-36-tooth/ )|$12.59|
-|1|[1611 Series Flanged Ball Bearing (8mm REX ID x 14mm OD, 5mm Thickness) (2 Pack)](https://www.gobilda.com/1611-series-flanged-ball-bearing-8mm-rex-id-x-14mm-od-5mm-thickness-2-pack/)|$5.99|
-|2|[2920 Series Steel Set-Screw Collar (8mm REX Bore) (2 Pack)](https://www.gobilda.com/2920-series-steel-set-screw-collar-8mm-rex-bore-2-pack/ )|$5.99|
-|1|[1516 Series 8mm REX Standoff (M4 x 0.7mm Threads, 40mm Length) (4 Pack)](https://www.gobilda.com/1516-series-8mm-rex-standoff-m4-x-0-7mm-threads-40mm-length-4-pack/ )|$5.29|
-|1|[Screws (M4, Length 16mm) (25 Pack)](https://www.gobilda.com/m4-x-0-7mm-zinc-plated-socket-head-screw-16mm-length/?sku=2800-0004-0016)|$3.79|
-|1|[Nuts (M4) (25 Pack)](https://www.gobilda.com/m4-x-0-7mm-nylock-nut/?sku=2812-0004-0007) |$2.99|
-||Total Cost: |$101.20|
+<table>
+  <tr>
+    <th># of Units</th>
+    <th>Part/Material</th>
+    <th>Unit Cost</th>
+    <th>Cost</th>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td><a href="https://www.gobilda.com/2000-series-dual-mode-servo-25-2-torque/">2000 Series Dual Mode Servo (25-2, Torque)</a></td>
+    <td>$36.99</td>
+    <td>$36.99</td>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td><a href="https://www.gobilda.com/2305-series-brass-mod-0-8-servo-gear-25-tooth-spline-12-tooth/">2305 Series Brass, MOD 0.8, Servo Gear (25 Tooth Spline, 12 Tooth)</a></td>
+    <td>$8.99</td>
+    <td>$8.99</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="https://www.gobilda.com/2303-series-steel-mod-0-8-pinion-gear-8mm-rex-bore-36-tooth/">2303 Series Steel, MOD 0.8 Pinion Gear (8mm REX Bore, 36 Tooth)</a></td>
+    <td>$12.59</td>
+    <td>$25.18</td>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td><a href="https://www.gobilda.com/1611-series-flanged-ball-bearing-8mm-rex-id-x-14mm-od-5mm-thickness-2-pack/">1611 Series Flanged Ball Bearing (8mm REX ID x 14mm OD, 5mm Thickness) (2 Pack)</a></td>
+    <td>$5.99</td>
+    <td>$5.99</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td><a href="https://www.gobilda.com/2920-series-steel-set-screw-collar-8mm-rex-bore-2-pack/">2920 Series Steel Set-Screw Collar (8mm REX Bore) (2 Pack)</a></td>
+    <td>$5.99</td>
+    <td>$11.98</td>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td><a href="https://www.gobilda.com/1516-series-8mm-rex-standoff-m4-x-0-7mm-threads-40mm-length-4-pack/">1516 Series 8mm REX Standoff (M4 x 0.7mm Threads, 40mm Length) (4 Pack)</a></td>
+    <td>$5.29</td>
+    <td>$5.29</td>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td><a href="https://www.gobilda.com/m4-x-0-7mm-zinc-plated-socket-head-screw-16mm-length/?sku=2800-0004-0016">Screws (M4, Length 16mm) (25 Pack)</a></td>
+    <td>$3.79</td>
+    <td>$3.79</td>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td><a href="https://www.gobilda.com/m4-x-0-7mm-nylock-nut/?sku=2812-0004-0007">Nuts (M4) (25 Pack)</a></td>
+    <td>$2.99</td>
+    <td>$2.99</td>
+  </tr>
+
+  <tr>
+    <td colspan="3">Total:</td>
+    <td>$101.20</td>
+  </tr>
+</table>
 
 **Total Cost of One Robotic End-Effector**
 ||3D-Printing Filament|Parts|Summed Total|
 |---|---|---|---|
-|Total: |$1.35|$101.20|**$102.55**|
+|Total Cost: |$1.35|$101.20|**$102.55**|
+
 
 
