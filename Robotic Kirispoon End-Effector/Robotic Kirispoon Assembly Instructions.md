@@ -107,10 +107,14 @@ Before clicking on the links in this list, there are some things to note:
     - Note: The “Link Cost” column shows the price of the product in the link address when this document was made, 
             NOT the cost for the amount of material needed for one spoon
 
+|Material|g per Roll|Roll Cost|g per Kirispoon|Kirispoon Cost|
+|---|---|---|---|---|
+|[PLA filament(any color)](https://us.store.bambulab.com/products/pla-basic-filament?srsltid=AfmBOoo7uD4aZrYHzutCN6MeIgpNWLYGZYQ993Mq-DI3_bWOmJg2ZiCG&id=43045599215752)|1000g|$19.99|40g|$0.80|
+|[TPU 85A filament](http://matterhackers.com/store/l/ninjatek-ninjaflex-tpu-filament/sk/MV0S1W9G?rcode=PMAX_GENPOPFIL&gad_source=1&gad_campaignid=20511284107&gbraid=0AAAAADtQ4S2UubuybuOmpFmA1j5LN21QE&gclid=CjwKCAiA95fLBhBPEiwATXUsxMzSsgJE8i6oHTvo0HaZhD9AmPCctGVFT8BKvup_QHG0nufGQGCBKRoCVewQAvD_BwE)|500g|$54.25|5g|$0.55|
+|Total:|1500g|$74.24|45g|$1.35|
+
 |# of Units|Part/Material|Unit Cost|
 |---|---|---|
-|1|[PLA filament(any color)](https://www.mcmaster.com/1317N205/ )|$23.46|
-|1|[TPU 85A filament](http://matterhackers.com/store/l/ninjatek-ninjaflex-tpu-filament/sk/MV0S1W9G?rcode=PMAX_GENPOPFIL&gad_source=1&gad_campaignid=20511284107&gbraid=0AAAAADtQ4S2UubuybuOmpFmA1j5LN21QE&gclid=CjwKCAiA95fLBhBPEiwATXUsxMzSsgJE8i6oHTvo0HaZhD9AmPCctGVFT8BKvup_QHG0nufGQGCBKRoCVewQAvD_BwE)|$54.25|
 |1|[2000 Series Dual Mode Servo (25-2, Torque)](https://www.gobilda.com/2000-series-dual-mode-servo-25-2-torque/ )|$36.99|
 |1|[2305 Series Brass, MOD 0.8, Servo Gear (25 Tooth Spline, 12 Tooth)](https://www.gobilda.com/2305-series-brass-mod-0-8-servo-gear-25-tooth-spline-12-tooth/)|$8.99|
 |2|[2303 Series Steel, MOD 0.8 Pinion Gear (8mm REX Bore, 36 Tooth)](https://www.gobilda.com/2303-series-steel-mod-0-8-pinion-gear-8mm-rex-bore-36-tooth/ )|$12.59|
@@ -120,4 +124,5 @@ Before clicking on the links in this list, there are some things to note:
 |1|[Screws (M4, Length 16mm) (25 Pack)](https://www.gobilda.com/m4-x-0-7mm-zinc-plated-socket-head-screw-16mm-length/?sku=2800-0004-0016)|$3.79|
 |1|[Nuts (M4) (25 Pack)](https://www.gobilda.com/m4-x-0-7mm-nylock-nut/?sku=2812-0004-0007) |$2.99|
 ||Total Cost: |$178.91|
+
 
