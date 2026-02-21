@@ -107,12 +107,14 @@ Before clicking on the links in this list, there are some things to note:
     - Note: The “Link Cost” column shows the price of the product in the link address when this document was made, 
             NOT the cost for the amount of material needed for one spoon
 
+**Total 3D-Printing Filament Cost**
 |Material|g per Roll|Roll Cost|g per Kirispoon|Kirispoon Cost|
 |---|---|---|---|---|
 |[PLA filament(any color)](https://us.store.bambulab.com/products/pla-basic-filament?srsltid=AfmBOoo7uD4aZrYHzutCN6MeIgpNWLYGZYQ993Mq-DI3_bWOmJg2ZiCG&id=43045599215752)|1000g|$19.99|40g|$0.80|
 |[TPU 85A filament](http://matterhackers.com/store/l/ninjatek-ninjaflex-tpu-filament/sk/MV0S1W9G?rcode=PMAX_GENPOPFIL&gad_source=1&gad_campaignid=20511284107&gbraid=0AAAAADtQ4S2UubuybuOmpFmA1j5LN21QE&gclid=CjwKCAiA95fLBhBPEiwATXUsxMzSsgJE8i6oHTvo0HaZhD9AmPCctGVFT8BKvup_QHG0nufGQGCBKRoCVewQAvD_BwE)|500g|$54.25|5g|$0.55|
 |Total:|1500g|$74.24|45g|$1.35|
 
+**Total Part Cost**
 |# of Units|Part/Material|Unit Cost|
 |---|---|---|
 |1|[2000 Series Dual Mode Servo (25-2, Torque)](https://www.gobilda.com/2000-series-dual-mode-servo-25-2-torque/ )|$36.99|
@@ -123,6 +125,9 @@ Before clicking on the links in this list, there are some things to note:
 |1|[1516 Series 8mm REX Standoff (M4 x 0.7mm Threads, 40mm Length) (4 Pack)](https://www.gobilda.com/1516-series-8mm-rex-standoff-m4-x-0-7mm-threads-40mm-length-4-pack/ )|$5.29|
 |1|[Screws (M4, Length 16mm) (25 Pack)](https://www.gobilda.com/m4-x-0-7mm-zinc-plated-socket-head-screw-16mm-length/?sku=2800-0004-0016)|$3.79|
 |1|[Nuts (M4) (25 Pack)](https://www.gobilda.com/m4-x-0-7mm-nylock-nut/?sku=2812-0004-0007) |$2.99|
-||Total Cost: |$178.91|
+||Total Cost: |$101.20|
 
+**Total Cost of One Robotic End-Effector**
+| |3D-Printing Filament|Parts|Summed Total|
+|Total: |$1.35|$101.20|$102.55|
 
