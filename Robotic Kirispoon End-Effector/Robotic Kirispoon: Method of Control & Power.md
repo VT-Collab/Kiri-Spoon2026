@@ -98,9 +98,11 @@ This method involves wiring the Robotic Kirispoon to an adaptable power source a
     3. Go into the folder containing Open_close_Kirispoon.py
     4. Right click on any white space in the folder to open a menu
     5. Choose “Open in Terminal”
-    6. In the terminal type “python” to install it
-    7. Install python
-    8. **...(Incomplete)...**
+    6. Make sure all the dependencies in requirements.txt are downloaded
+    7. Type the following in your terminal: 
+        python Open_close_Kirispoon.py
+    8. Press the "enter" key
+    
 
 ## Order List for Method 2
 There are multiple ways to make the circuit shown in Method 2. The parts list below will contain the items to make the circuit utilized during research. This circuit is similar to the one featured in the order form above, except that the orange and green wires, the button, and the resistors have been removed. A computer capable of sending serial messages corresponding to the Arduino is assumed to be available. 
@@ -124,5 +126,6 @@ Before clicking on the links in this list, there are a couple of important thing
 |1|[Half Breadboard](https://www.digikey.com/en/products/detail/dfrobot/FIT0096/7597069?gclsrc=aw.ds&gad_source=1&gad_campaignid=20232005509&gbraid=0AAAAADrbLliWzviSy71Vuvh3rn68vr0yy&gclid=CjwKCAiAmp3LBhAkEiwAJM2JUAsJKqjgIozuQ8PYXdKIrhqhSSRvO_wl6e72EOud3CsVuHPRZbkJcBoCjGIQAvD_BwE )|$2.90|
 |1|[M/M Wires (20 Count)](https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-12795/5993860 )|$2.95|
 ||Total Cost: |$57.94|
+
 
 
